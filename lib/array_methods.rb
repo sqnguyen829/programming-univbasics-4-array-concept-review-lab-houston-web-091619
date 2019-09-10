@@ -23,3 +23,5 @@ def find_min_value(array)
   return array.sort.first
   
 end
+
+
